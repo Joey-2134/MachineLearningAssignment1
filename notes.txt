@@ -1,0 +1,3 @@
+- Recall significantly more important as missing a wildfire could be catastrophic. (false negative = missed wildfire)
+- Precision is less critical as false alarms can be managed with further investigation. (false positive = false alarm)
+- Accuracy and precision < recall
